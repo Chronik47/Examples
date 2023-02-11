@@ -1,4 +1,6 @@
-﻿Console.Clear();
+﻿// Треугольник Серпинского, работа с циклом(while), работа с координатами.
+
+Console.Clear();
 // Console.SetCursorPosition(10, 4);
 // Console.WriteLine("+");
 
