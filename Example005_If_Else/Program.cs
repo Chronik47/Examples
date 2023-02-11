@@ -1,4 +1,6 @@
-﻿Console.WriteLine("Введите имя пользователя: ");
+﻿// Код для персонального приветствия
+
+Console.WriteLine("Введите имя пользователя: ");
 string username = Console.ReadLine();
 
 if(username.ToLower() == "маша")
