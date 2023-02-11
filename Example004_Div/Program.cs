@@ -1,3 +1,5 @@
-﻿double numberA = 12;
+﻿// Код работы с Вешественными числами, деление двух чисел
+
+double numberA = 12;
 double numberB = 5;
 Console.WriteLine(numberA / numberB);
